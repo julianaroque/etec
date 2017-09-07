@@ -14,3 +14,9 @@ python run.py
 sudo add-apt-repository -y ppa:linuxgndu/sqlitebrowser<br>
 sudo apt-get update<br>
 sudo apt-get install sqlitebrowser<br>
+
+## Instalando o Atom para editar o código
+
+sudo add-apt-repository ppa:webupd8team/atom<br>
+sudo apt-get update<br>
+sudo apt-get install atom<br>
